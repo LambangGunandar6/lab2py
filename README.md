@@ -18,10 +18,10 @@ Ikuti langkah instalasi dan tunggu proses sampai selesai,jika sudah selesai sila
 
 ## LATIHAN 1
 
-Buka CMD pada komputer 
-Menjalankan Python Console dengan cara mengetikkan "python"
-Menampilkan tulisan “Hello” dilayar
-Menampilkan tulisan “Saya sedang belajar python” dilayar
+Buka CMD pada komputer <br>
+Menjalankan Python Console dengan cara mengetikkan "python"<br>
+Menampilkan tulisan “Hello” dilayar<br>
+Menampilkan tulisan “Saya sedang belajar python” dilayar<br>
 
 ![Gambar 4](python/lat1.png)
 
